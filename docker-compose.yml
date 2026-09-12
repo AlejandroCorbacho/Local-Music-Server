@@ -1,0 +1,14 @@
+services:
+  navidrome:
+    image: deluan/navidrome:latest
+    user: 1000:1000 # must own the data folder and be able to read music folder(s). See Permissions below
+    ports:
+      - "4533:4533"
+    restart: unless-stopped
+    environment:
+      # Optional: put your config options customization here. Examples:
+      ND_LOGFILE: /data-directory-here/navidrome.log
+      ND_CACHEFOLDER: /data-directory-here/cache
+    volumes:
+      - "/data-directory-here:/data"
+      - "/music-directory-here:/music:ro"

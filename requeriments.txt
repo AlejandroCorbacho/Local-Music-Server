@@ -1,0 +1,3 @@
+mutagen==1.48.1
+static_ffmpeg==3.0
+yt-dlp==2026.8.19
