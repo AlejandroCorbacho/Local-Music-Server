@@ -129,3 +129,11 @@ Para la descarga en cadena, necesitaremos un archivo *CSV* con todas las cancion
 Solo tienes que instalarla desde la App Store, indicar la dirección IP/URL de tu servidor Navidrome e iniciar sesión con la cuenta que creaste previamente.
 
 *Desarrollada por [@argie-w](https://github.com/argie-w)
+
+----
+
+# Disclaimer
+
+Este proyecto se proporciona, con fines educativos y de uso personal, sin garantía de ningún tipo. El autor no se hace responsable del mal uso, daños o problemas legales derivados del uso de este software. El usuario es el único responsable de que su uso cumpla con las leyes de derechos de autor aplicables y los Términos de Servicio de cualquier plataforma accedida a través de esta herramienta.
+
+Este proyecto utiliza bibliotecas de código abierto de terceros: yt-dlp (Unlicense) y static_ffmpeg (Licencia MIT, Copyright © Zachary Vorhies), que a su vez utiliza FFmpeg (LGPL/GPL). Todos los derechos de estos proyectos pertenecen a sus respectivos autores. Este proyecto no está afiliado con YouTube, Google ni FFmpeg.

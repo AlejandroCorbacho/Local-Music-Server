@@ -107,3 +107,12 @@ You just have to install it from the App Store, provide the IP address/URL of yo
 
 *Developed by  [@argie-w](https://github.com/argie-w)
 
+
+--- 
+
+# Disclaimer
+
+This project is provided, for educational and personal use, with no warranty of any kind. The author is not responsible for any misuse, damages, or legal issues arising from the use of this software. Users are solely responsible for ensuring their use complies with applicable copyright laws and the Terms of Service of any platform accessed through this tool.
+
+This project uses third-party open-source libraries: yt-dlp (Unlicense) and static_ffmpeg (MIT License, Copyright © Zachary Vorhies), which relies on FFmpeg (LGPL/GPL). All rights to these projects belong to their respective authors. This project is not affiliated with YouTube, Google, or FFmpeg.
+
